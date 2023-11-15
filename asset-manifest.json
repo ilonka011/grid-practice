@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/grid-practice/static/css/main.d03dbc72.css",
+    "main.js": "/grid-practice/static/js/main.c2d2c7b5.js",
+    "static/js/787.9ddf7f1f.chunk.js": "/grid-practice/static/js/787.9ddf7f1f.chunk.js",
+    "static/media/portuguese.webp": "/grid-practice/static/media/portuguese.22cbc519acae8b2462bb.webp",
+    "static/media/arabic-img.webp": "/grid-practice/static/media/arabic-img.f535d258a0efa2d85983.webp",
+    "index.html": "/grid-practice/index.html",
+    "main.d03dbc72.css.map": "/grid-practice/static/css/main.d03dbc72.css.map",
+    "main.c2d2c7b5.js.map": "/grid-practice/static/js/main.c2d2c7b5.js.map",
+    "787.9ddf7f1f.chunk.js.map": "/grid-practice/static/js/787.9ddf7f1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d03dbc72.css",
+    "static/js/main.c2d2c7b5.js"
+  ]
+}
